@@ -1,4 +1,4 @@
-% Copyright (C) 2019-2020 by Hartnakig[liucaifeng@outlook.com]
+% Copyright (C) 2019-2020 by Hartnakig
 %
 %% This is file `dmuthesis.cls',
 %% generated with the docstrip utility.
