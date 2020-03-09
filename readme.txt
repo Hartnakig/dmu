@@ -1,3 +1,4 @@
+大连海事大学 本科毕业设计论文模板
 
 latex安装教程：https://blog.csdn.net/sleepingemperor/article/details/80394018
 
