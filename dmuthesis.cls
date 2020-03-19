@@ -475,8 +475,7 @@ pdfborder={0 0 0},
 \cfoot{\wuhao -\thepage-}
 \rfoot{}
 \newcommand{\makeheadrule}{%
-\makebox[0pt][l]{\rule[1mm]{\headwidth}{0.4mm}}%
-\rule[0.35\baselineskip]{\headwidth}{0.8mm}}
+\rule[0.7\baselineskip]{\headwidth}{0.4mm}}
 \renewcommand{\headrule}{%
 {\if@fancyplain\let\headrulewidth\plainheadrulewidth\fi%
 \makeheadrule}}
